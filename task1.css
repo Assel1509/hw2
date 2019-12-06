@@ -1,0 +1,37 @@
+body{
+  margin: 5px
+}
+a{
+  color: green
+}
+.title a{
+  color: blue
+}
+div.item{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid red;
+  border-radius: 5px;
+  margin: 10px;
+  width: 800px;
+  height: 150px  
+}
+
+.price{
+  color: green;
+  border: 1px solid pink;
+  background-color: pink;
+  border-radius: 5px
+}
+.item_urgent{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid red;
+  border-radius: 5px;
+  margin: 10px;
+  width: 800px;
+  height: 150px;
+  background-color: yellow
+}
